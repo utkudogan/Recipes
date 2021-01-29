@@ -1,0 +1,7 @@
+{
+  "name": "bosProje",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
